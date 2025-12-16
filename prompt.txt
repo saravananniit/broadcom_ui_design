@@ -1,0 +1,31 @@
+You are an expert front-end developer. Build a responsive Travel Booking Dashboard UI using React 18, functional components, and Tailwind CSS <HTML5/CSS/Bootstrap/JavaScript>. Follow these requirements and user stories:
+
+Requirements:
+- Homepage:
+    * Search bar for destination.
+    * Date picker for travel dates.
+    * Dropdown for number of travelers.
+    * Prominent "Search Trips" button.
+- Search Results Page:
+    * Display trip cards with destination image, price, rating, and "Book Now" button.
+- Booking Form:
+    * Traveler details: name, email, phone.
+    * Payment options: Credit Card, UPI.
+    * Show confirmation summary before submission.
+- Responsive Design:
+    * Works on desktop, tablet, and mobile.
+    * Navigation menu collapses into hamburger on mobile.
+- Accessibility:
+    * Proper labels, keyboard navigation, and ARIA attributes.
+
+User Stories:
+- As a traveler, I want to search trips by destination and date.
+- As a traveler, I want to view trip details (price, rating, image).
+- As a traveler, I want to book easily with a simple form and see a confirmation summary.
+- As a traveler, I want the UI to work on my phone.
+
+Output:
+- Modular components with proper folder structure:
+    * Header, Footer, SearchBar, TripCard, BookingForm.
+- Include Tailwind classes <Bootstrap> for styling.
+- Provide sample data for trip cards.
