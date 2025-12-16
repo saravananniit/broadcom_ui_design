@@ -1,0 +1,36 @@
+AI developer toolkit: 
+https://github.com/github/spec-kit
+
+
+constitution.md
+
+Follow instructions in speckit.constitution.prompt.md.
+
+fill the constitution with the bare min requirements for a static web app based on the template
+
+
+Follow instructions in speckit.specify.prompt.md.
+/specify
+i am building a modern podcast website. I want it to have look and feel, something that would standout , shaould have a landing page with one featured episode. There should be an episode page, an about page and a FAQ page. Should have 20 episodes, and the the datas mocked, you dont need to pull anything from any real feed
+
+==========================================================================
+o/p: spec.md
+
+optional:
+for this that need clarification, use the best guess you think is reasonable. update acceptance checklist after.
+
+/plan
+I am going to use html, CSS/bootstrap/javascript with static site configuration, no-databases-data is embedded in the context for the mock episodes. Site is responsive and ready for mobile
+
+===========================================================================
+o/p:  plan.md
+
+/tasks
+break this down into tasks
+
+===========================================================================
+tasks.md
+
+Implement the tasks for this project and update the task list as you go.
+
+===========================================================================
